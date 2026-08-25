@@ -1,10 +1,10 @@
-#Repositorio unificado de ejercitación de Programación I
+# Repositorio unificado de ejercitación de Programación I
 ## Destinado a 3er año de la Escuela Técnica de la Universidad de Mendoza
 
 ### El objetivo
 
 El objetivo de este repositorio es generar un espacio que incentive a los alumnos de Programación I de la Escuela Técnica de la Universidad de Mendoza a
-realizar ejercitación, la cual es fundamental para desarrollar el pensamiento crítico y las habilidades de toma de decisiones fundamentales a la hora
+realizar ejercitación, la cual es fundamental para desarrollar el pensamiento crítico y las habilidades de toma de decisiones a la hora
 de hacer desarrollo de software, *con o sin la asistencia de Inteligencia Artificial.*
 
 A este repositorio serán subidos varios ejercicios separados por los ejes que se están siguiendo en el cursado de la materia. El alumno podrá elegir
