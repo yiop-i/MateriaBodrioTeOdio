@@ -1,0 +1,55 @@
+{
+  "usuario": {
+    "id": 1042,
+    "nombre": "Pablito",
+    "rol": "alumno",
+    "activo": true
+  },
+  "curso": {
+    "id": 25,
+    "nombre": "Programación I",
+    "año": 3,
+    "docente": {
+      "nombre": "Nicolás Bartolomeo",
+      "email": "nicolas.bartolomeo@etec.edu.ar"
+    }
+  },
+  "calificaciones": [
+    {
+      "materia": "Programación",
+      "evaluaciones": [
+        {
+          "nombre": "Evaluación Matrices",
+          "nota": 2,
+          "aprobado": true
+        },
+        {
+          "nombre": "Recuperatorio Matrices",
+          "nota": 8,
+          "aprobado": true
+        }
+      ]
+    },
+    {
+      "materia": "Matemática",
+      "evaluaciones": [
+        {
+          "nombre": "Evaluación función cuadrática",
+          "nota": 4,
+          "aprobado": false
+        },
+        {
+          "nombre": "Trabajo Práctico",
+          "nota": 9,
+          "aprobado": true
+        }
+      ]
+    }
+  ],
+  "asistencia": {
+    "total_clases": 42,
+    "presentes": 38,
+    "ausentes": 4,
+    "porcentaje": 90.48
+  }
+}
